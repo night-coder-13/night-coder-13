@@ -1,4 +1,6 @@
 ### Hi there 👋
+![This is an image](./logo.jpg)
+
 
 <!--
 **night-coder-13/night-coder-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
