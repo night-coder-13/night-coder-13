@@ -1,6 +1,7 @@
 ### Hi there 👋
-![This is an image](./logo.jpg)
-<img src="./logo.jpg" style="width:200px;margin:auto;" />
+<!-- ![This is an image](./logo.jpg) -->
+<div style="display:flex; justify-content: center; widht:100%"><img src="./logo.jpg" style="width:200px;margin:auto;" /></div>
+
 
 <!--
 **night-coder-13/night-coder-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
