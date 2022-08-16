@@ -5,7 +5,7 @@ A brief description of what this project does and who it's for
 
 
 <h1 align="center" dir="auto">
-    <img src="./logo.jpg" alt="">
+    <img src="./logo.svg" style="width:150px" alt="">
     <br>
     Mehdi Abasian
   </h1>
